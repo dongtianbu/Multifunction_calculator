@@ -161,6 +161,7 @@ void Complex_arithmetic()
 {
 	int flag = 0;
 	double result = 0;
+	//定义一个复数结构体
 	typedef struct
 	{
 		double real;
